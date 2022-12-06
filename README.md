@@ -1,3 +1,3 @@
 # ui-app
 
-this is first session of hithub
+this is first session of ghithub
