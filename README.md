@@ -10,6 +10,7 @@ this is first session of ghithub
 - git
 - maven
 - docker
+- kubernetes
 
 ``` choco install git ```
 
